@@ -4,6 +4,6 @@
     <title>index</title>
 </head>
 <body>
-wow!!!!! toy project??
+ 이건 버전이 너무 무거워서 가벼운 버전으로 만들어볼까 합니다!
 </body>
 </html>
